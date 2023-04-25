@@ -1,4 +1,4 @@
-#include "chat.h"
+#include "../headers/chat.h"
 
 Chat::Chat(QWidget* parent, quint16 port) : QWidget(parent), port(port) {
     setWindowTitle("Chat");

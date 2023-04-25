@@ -1,4 +1,4 @@
-#include "chat.h"
+#include "../headers/chat.h"
 #include <QApplication>
 
 

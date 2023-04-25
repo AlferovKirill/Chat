@@ -13,9 +13,9 @@ find_package(QT NAMES Qt6 Qt5 REQUIRED COMPONENTS Widgets Network Core)
 find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets Network Core)
 
 set(PROJECT_SOURCES
-        main.cpp
-        chat.cpp
-        chat.h
+        source/main.cpp
+        source/chat.cpp
+        headers/chat.h
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
