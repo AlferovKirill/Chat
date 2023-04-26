@@ -2,4 +2,4 @@
 
 This is my implementation of simple local P2P chat on UDP sockets and C++/Qt.
 
-<img src="https://github.com/AlferovKirill/Chat/blob/main/chat.gif" height = 500>
+<img src="https://github.com/AlferovKirill/Chat/blob/main/chat.gif" height = 100>
